@@ -242,7 +242,7 @@ def main():
 			
 		elif pilih == '5':
 			print
-			os.system('xdg-open https://m.youtube.com/channel/UC0LsiFgUAbd03TJQ')
+			os.system('xdg-open https://m.youtube.com/channel/UC0LsiFgUAbd03TJXiT4Eo7Q')
 			sleep(2)
 			tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 			if tanya.upper() == 'Y':
@@ -284,9 +284,9 @@ def main():
 		
 if __name__ == '__main__':
 	os.system(clear)
-	print(C+'Subscribe YT'+W+' Gua Dlu Ya Bro !'+C+' :v')
+	print(C+'Subscribe YT'+W+' Gua Dlu Ya Guyss !'+C+' :v')
 	print
-	os.system('xdg-open https://m.youtube.com/channel/UC0LsiFgUAbd03TJ')
+	os.system('xdg-open https://m.youtube.com/channel/UC0LsiFgUAbd03TJXiT4Eo7Q')
 	sleep(2)
 	tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 	if tanya.upper() == 'Y':
