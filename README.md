@@ -3,7 +3,7 @@ Buat NgePRANK Teman Kalian: V
 
 
 
-![IMG_20200407_151338](https://drive.google.com/file/d/1DJMcrNiEoGvSVr8cozR8SSqopk2bQMAw/view?usp=drivesdk)
+![IMG_20200407_151338](https://github.com/Anonymous3-SIT/SpamCall/blob/master/IMG_20200407_151338.jpg)
 
 ```
 
